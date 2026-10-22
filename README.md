@@ -4,6 +4,6 @@ Pac-Man es un clásico juego arcade en el que controlas a un personaje amarillo 
 
 ![](https://images.gamebanana.com/img/ss/concepts/5816487dc8699.webp)
 
-Pots jugar aqui: [https://pacmangratis.net/](https://pacmangratis.net/)
+Pots jugar aqui: [https://pacmangratis.net/](https://pacmangratis.net/) 
 
 **Autor:** [Marc Gairin Ortiz](https://github.com/mgairino-mango)
